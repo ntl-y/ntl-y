@@ -3,7 +3,6 @@
 I'm a passionate backend developer with a love for databases and neural networks. Here's a bit more about me:
 
 - 💻 **Backend Enthusiast**: I specialize in writing backend services using Go. Fast, reliable, and scalable code is my jam!
-- 🗄️ **Database Lover**: From SQL to NoSQL, I work with various databases, ensuring optimized and efficient data handling.
 - 🤖 **Neural Network Builder**: I have experience creating machine learning models and implementing neural networks to solve complex problems.
 
 ---
