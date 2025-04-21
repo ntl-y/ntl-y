@@ -7,8 +7,8 @@ I'm a passionate backend developer with a love for neural networks. Here's a bit
 
 ---
 
-### 🍳 New project alert: [SnapNCook](http://snapcook.tech)  
-📷 **SnapNCook** is an AI-powered service that detects ingredients from photos and recommends recipes. Just snap and cook — it's that simple. *(Work in progress, stay tuned!)*
+### 📷 New project alert: [SnapNCook](http://snapcook.tech)  
+🔍 **SnapNCook** is an AI-powered service that detects ingredients from photos and recommends recipes. Just snap and cook — it's that simple. *(Work in progress, stay tuned!)*
 
 ---
 
