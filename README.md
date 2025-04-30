@@ -8,12 +8,12 @@ I'm a passionate backend developer with a love for neural networks. Here's a bit
 ---
 
 ### 📷 New project: [SnapNCook](http://snapcook.tech)  
-🔍 **SnapNCook** is an AI-powered service that detects ingredients from photos and recommends recipes. Just snap and cook — it's that simple. *(Work in progress, stay tuned!)*
+🔍 **SnapNCook** is an AI-powered service that detects ingredients from photos and recommends recipes.
 
 ---
 
 ### 🎶 Also check out: [HiddenTunes](https://hiddentunes.tech)  
-🔍 **HiddenTunes** is a music discovery service that lets you listen to tracks with less than 100 plays. Dive into the world of hidden musical gems!
+🔍 **HiddenTunes** is a music discovery service that lets you listen to tracks with less than 100 plays.
 
 ---
 
