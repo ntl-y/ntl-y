@@ -7,7 +7,7 @@ I'm a passionate backend developer with a love for neural networks. Here's a bit
 
 ---
 
-### 📷 New project alert: [SnapNCook](http://snapcook.tech)  
+### 📷 New project: [SnapNCook](http://snapcook.tech)  
 🔍 **SnapNCook** is an AI-powered service that detects ingredients from photos and recommends recipes. Just snap and cook — it's that simple. *(Work in progress, stay tuned!)*
 
 ---
@@ -17,4 +17,6 @@ I'm a passionate backend developer with a love for neural networks. Here's a bit
 
 ---
 
-Feel free to check out my repositories! 😎
+### 🔗 Blockchain & TON Development Experience
+- ⚡ **Tact Language Enthusiast**: Passionate about writing smart contracts in Tact for The Open Network (TON)  
+- 🏆 **Competition Experience**: Participated in multiple Tact coding challenges. Check out my Tact repositories: [tact-smart-battle](https://github.com/ntl-y/tact-smart-battle), [tsc4](https://github.com/ntl-y/tsc4), [tact-challenge](https://github.com/ntl-y/tact-challenge)
